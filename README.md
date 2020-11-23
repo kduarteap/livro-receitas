@@ -2,6 +2,7 @@
 
 ### Olá!!! Bem vindo ao menu de receitas 👋🏽️
 
--Strogonoff de frango
-*Pave
+- Strogonoff de frango
+- Pave
+- Bem Casado
 
